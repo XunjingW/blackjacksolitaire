@@ -1,8 +1,8 @@
 
 public class Board {
 	
-	String[][] gameBoard; 
-	int positionsTaken;
+	private String[][] gameBoard; 
+	private int positionsTaken;
 	
 	public Board() {
 		this.gameBoard = new String[][]{

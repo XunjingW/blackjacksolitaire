@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class BlackjackSolitaire {
 	
-	Board myBoard; 
-	Deck myDeck;
-	Card currentCard;
-	Score myScore;
+	private Board myBoard; 
+	private Deck myDeck;
+	private Card currentCard;
+	private Score myScore;
 	
     public BlackjackSolitaire() {
     	this.myBoard = new Board();

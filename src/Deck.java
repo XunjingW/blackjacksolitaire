@@ -3,9 +3,9 @@ import java.util.Collections;
 
 public class Deck {
 	
-	ArrayList<Card> cards;
-	String[] suits;
-	String[] ranks;
+	private ArrayList<Card> cards;
+	private String[] suits;
+	private String[] ranks;
 
 	
 	public Deck() {

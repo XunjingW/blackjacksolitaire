@@ -1,7 +1,7 @@
 
 public class Score {
 	
-	Board myBoard;
+	private Board myBoard;
 	
 	public Score(Board myBoard) {
 		
