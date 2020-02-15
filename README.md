@@ -1,1 +1,1 @@
-# blackjacksolitaire
+# Blackjack solitaire game
